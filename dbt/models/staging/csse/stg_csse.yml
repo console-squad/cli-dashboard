@@ -1,0 +1,66 @@
+version: 2
+
+models:
+  - name: stg_csse_cases
+    tests: &COUNTRY_PROVINCE_DT_PRIMARY_KEY
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns:
+            - country_k
+            - province_k
+            - dt
+    columns: &GEO_FOREIGN_KEYS
+      - name: country_k
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_csse_country')
+              field: country_k
+      - name: province_k
+        tests:
+          - relationships:
+              to: ref('stg_csse_province')
+              field: province_k
+
+  - name: stg_csse_country
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns:
+            - lat
+            - lon
+    columns:
+      - name: country_k
+        tests: &UNIQUE_NOT_NULL
+          - not_null
+          - unique
+      - name: name
+        tests: *UNIQUE_NOT_NULL
+      - name: iso2
+        tests: *UNIQUE_NOT_NULL
+      - name: iso3
+        tests: *UNIQUE_NOT_NULL
+      - name: population
+        tests:
+          - not_null
+
+  - name: stg_csse_deaths
+    description: Confirmed new_deaths by country
+    tests: *COUNTRY_PROVINCE_DT_PRIMARY_KEY
+    columns: *GEO_FOREIGN_KEYS
+
+  - name: stg_csse_province
+    columns:
+      - name: province_k
+        tests: *UNIQUE_NOT_NULL
+      - name: country_k
+        tests:
+          - relationships:
+              to: ref('stg_csse_country')
+              field: country_k
+      - name: name
+        tests:
+          - unique
+
+  - name: stg_csse_recoveries
+    description: Confirmed recoveries by country
+    tests: *COUNTRY_PROVINCE_DT_PRIMARY_KEY
+    columns: *GEO_FOREIGN_KEYS

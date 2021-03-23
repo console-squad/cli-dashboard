@@ -1,0 +1,7058 @@
+[
+  {
+    "periodend" : "2020-01-23 00:00:00",
+    "countusers" : 359,
+    "countsessions" : 2348,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-01-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-24 00:00:00",
+    "countusers" : 389,
+    "countsessions" : 2149,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-01-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-25 00:00:00",
+    "countusers" : 293,
+    "countsessions" : 1422,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-01-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-26 00:00:00",
+    "countusers" : 71,
+    "countsessions" : 574,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-01-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-27 00:00:00",
+    "countusers" : 67,
+    "countsessions" : 330,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-01-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-28 00:00:00",
+    "countusers" : 235,
+    "countsessions" : 1242,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-01-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-29 00:00:00",
+    "countusers" : 383,
+    "countsessions" : 2246,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-01-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-30 00:00:00",
+    "countusers" : 403,
+    "countsessions" : 2294,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-01-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-31 00:00:00",
+    "countusers" : 359,
+    "countsessions" : 2286,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-01-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-01 00:00:00",
+    "countusers" : 313,
+    "countsessions" : 1540,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-01-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-02 00:00:00",
+    "countusers" : 76,
+    "countsessions" : 766,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-03 00:00:00",
+    "countusers" : 209,
+    "countsessions" : 1120,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-04 00:00:00",
+    "countusers" : 387,
+    "countsessions" : 2258,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-05 00:00:00",
+    "countusers" : 390,
+    "countsessions" : 2209,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-06 00:00:00",
+    "countusers" : 394,
+    "countsessions" : 2361,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-07 00:00:00",
+    "countusers" : 374,
+    "countsessions" : 2440,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-08 00:00:00",
+    "countusers" : 299,
+    "countsessions" : 1989,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-09 00:00:00",
+    "countusers" : 83,
+    "countsessions" : 1310,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-10 00:00:00",
+    "countusers" : 222,
+    "countsessions" : 1672,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-11 00:00:00",
+    "countusers" : 405,
+    "countsessions" : 3347,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-12 00:00:00",
+    "countusers" : 401,
+    "countsessions" : 3440,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-13 00:00:00",
+    "countusers" : 442,
+    "countsessions" : 2886,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-14 00:00:00",
+    "countusers" : 388,
+    "countsessions" : 2467,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-15 00:00:00",
+    "countusers" : 327,
+    "countsessions" : 1667,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-16 00:00:00",
+    "countusers" : 57,
+    "countsessions" : 721,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-17 00:00:00",
+    "countusers" : 218,
+    "countsessions" : 1087,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-18 00:00:00",
+    "countusers" : 411,
+    "countsessions" : 2148,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-19 00:00:00",
+    "countusers" : 412,
+    "countsessions" : 1918,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-20 00:00:00",
+    "countusers" : 395,
+    "countsessions" : 2188,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-21 00:00:00",
+    "countusers" : 403,
+    "countsessions" : 2094,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-22 00:00:00",
+    "countusers" : 308,
+    "countsessions" : 1708,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-23 00:00:00",
+    "countusers" : 62,
+    "countsessions" : 778,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-24 00:00:00",
+    "countusers" : 246,
+    "countsessions" : 1206,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-25 00:00:00",
+    "countusers" : 408,
+    "countsessions" : 2600,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-26 00:00:00",
+    "countusers" : 398,
+    "countsessions" : 2546,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-27 00:00:00",
+    "countusers" : 387,
+    "countsessions" : 2431,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-28 00:00:00",
+    "countusers" : 383,
+    "countsessions" : 2203,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-29 00:00:00",
+    "countusers" : 313,
+    "countsessions" : 1694,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-01 00:00:00",
+    "countusers" : 69,
+    "countsessions" : 773,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-02-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-02 00:00:00",
+    "countusers" : 225,
+    "countsessions" : 1156,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-03 00:00:00",
+    "countusers" : 402,
+    "countsessions" : 2325,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-04 00:00:00",
+    "countusers" : 382,
+    "countsessions" : 2393,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-05 00:00:00",
+    "countusers" : 400,
+    "countsessions" : 2142,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-06 00:00:00",
+    "countusers" : 412,
+    "countsessions" : 2660,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-07 00:00:00",
+    "countusers" : 309,
+    "countsessions" : 2018,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-08 00:00:00",
+    "countusers" : 90,
+    "countsessions" : 963,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-09 00:00:00",
+    "countusers" : 162,
+    "countsessions" : 861,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-10 00:00:00",
+    "countusers" : 385,
+    "countsessions" : 1896,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-11 00:00:00",
+    "countusers" : 383,
+    "countsessions" : 1707,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-12 00:00:00",
+    "countusers" : 387,
+    "countsessions" : 1861,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-13 00:00:00",
+    "countusers" : 376,
+    "countsessions" : 1868,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-14 00:00:00",
+    "countusers" : 300,
+    "countsessions" : 1471,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-15 00:00:00",
+    "countusers" : 64,
+    "countsessions" : 608,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-16 00:00:00",
+    "countusers" : 183,
+    "countsessions" : 786,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-17 00:00:00",
+    "countusers" : 347,
+    "countsessions" : 1713,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-18 00:00:00",
+    "countusers" : 379,
+    "countsessions" : 1730,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-19 00:00:00",
+    "countusers" : 342,
+    "countsessions" : 1681,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-20 00:00:00",
+    "countusers" : 360,
+    "countsessions" : 1687,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-21 00:00:00",
+    "countusers" : 273,
+    "countsessions" : 1286,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-22 00:00:00",
+    "countusers" : 75,
+    "countsessions" : 444,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-23 00:00:00",
+    "countusers" : 196,
+    "countsessions" : 598,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-24 00:00:00",
+    "countusers" : 363,
+    "countsessions" : 1585,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-25 00:00:00",
+    "countusers" : 335,
+    "countsessions" : 1495,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-26 00:00:00",
+    "countusers" : 321,
+    "countsessions" : 1488,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-27 00:00:00",
+    "countusers" : 350,
+    "countsessions" : 1493,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-28 00:00:00",
+    "countusers" : 299,
+    "countsessions" : 1193,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-29 00:00:00",
+    "countusers" : 83,
+    "countsessions" : 297,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-30 00:00:00",
+    "countusers" : 223,
+    "countsessions" : 770,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-31 00:00:00",
+    "countusers" : 354,
+    "countsessions" : 1574,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-01 00:00:00",
+    "countusers" : 369,
+    "countsessions" : 1755,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-03-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-02 00:00:00",
+    "countusers" : 401,
+    "countsessions" : 1775,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-03 00:00:00",
+    "countusers" : 373,
+    "countsessions" : 1635,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-04 00:00:00",
+    "countusers" : 305,
+    "countsessions" : 1236,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-05 00:00:00",
+    "countusers" : 112,
+    "countsessions" : 472,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-06 00:00:00",
+    "countusers" : 204,
+    "countsessions" : 803,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-07 00:00:00",
+    "countusers" : 376,
+    "countsessions" : 1830,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-08 00:00:00",
+    "countusers" : 374,
+    "countsessions" : 1660,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-09 00:00:00",
+    "countusers" : 378,
+    "countsessions" : 1638,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-10 00:00:00",
+    "countusers" : 311,
+    "countsessions" : 1183,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-11 00:00:00",
+    "countusers" : 120,
+    "countsessions" : 381,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-12 00:00:00",
+    "countusers" : 93,
+    "countsessions" : 349,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-13 00:00:00",
+    "countusers" : 94,
+    "countsessions" : 621,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-14 00:00:00",
+    "countusers" : 233,
+    "countsessions" : 973,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-15 00:00:00",
+    "countusers" : 364,
+    "countsessions" : 1485,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-16 00:00:00",
+    "countusers" : 378,
+    "countsessions" : 1800,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-17 00:00:00",
+    "countusers" : 391,
+    "countsessions" : 1967,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-18 00:00:00",
+    "countusers" : 312,
+    "countsessions" : 1480,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-19 00:00:00",
+    "countusers" : 127,
+    "countsessions" : 546,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-20 00:00:00",
+    "countusers" : 201,
+    "countsessions" : 808,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-21 00:00:00",
+    "countusers" : 401,
+    "countsessions" : 2221,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-22 00:00:00",
+    "countusers" : 382,
+    "countsessions" : 1758,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-23 00:00:00",
+    "countusers" : 400,
+    "countsessions" : 1758,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-24 00:00:00",
+    "countusers" : 404,
+    "countsessions" : 1945,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-25 00:00:00",
+    "countusers" : 301,
+    "countsessions" : 1228,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-26 00:00:00",
+    "countusers" : 106,
+    "countsessions" : 389,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-27 00:00:00",
+    "countusers" : 193,
+    "countsessions" : 589,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-28 00:00:00",
+    "countusers" : 360,
+    "countsessions" : 1518,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-29 00:00:00",
+    "countusers" : 383,
+    "countsessions" : 1640,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-30 00:00:00",
+    "countusers" : 364,
+    "countsessions" : 1526,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-01 00:00:00",
+    "countusers" : 378,
+    "countsessions" : 1557,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-04-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-02 00:00:00",
+    "countusers" : 287,
+    "countsessions" : 1351,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-03 00:00:00",
+    "countusers" : 106,
+    "countsessions" : 405,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-04 00:00:00",
+    "countusers" : 204,
+    "countsessions" : 602,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-05 00:00:00",
+    "countusers" : 362,
+    "countsessions" : 1846,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-06 00:00:00",
+    "countusers" : 389,
+    "countsessions" : 2549,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-07 00:00:00",
+    "countusers" : 363,
+    "countsessions" : 2285,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-08 00:00:00",
+    "countusers" : 400,
+    "countsessions" : 2269,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-09 00:00:00",
+    "countusers" : 353,
+    "countsessions" : 2166,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-10 00:00:00",
+    "countusers" : 125,
+    "countsessions" : 1198,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-11 00:00:00",
+    "countusers" : 209,
+    "countsessions" : 1392,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-12 00:00:00",
+    "countusers" : 419,
+    "countsessions" : 2947,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-13 00:00:00",
+    "countusers" : 378,
+    "countsessions" : 2363,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-14 00:00:00",
+    "countusers" : 357,
+    "countsessions" : 2518,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-15 00:00:00",
+    "countusers" : 372,
+    "countsessions" : 2546,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-16 00:00:00",
+    "countusers" : 323,
+    "countsessions" : 2154,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-17 00:00:00",
+    "countusers" : 114,
+    "countsessions" : 983,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-18 00:00:00",
+    "countusers" : 199,
+    "countsessions" : 635,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-19 00:00:00",
+    "countusers" : 388,
+    "countsessions" : 2367,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-20 00:00:00",
+    "countusers" : 402,
+    "countsessions" : 2304,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-21 00:00:00",
+    "countusers" : 415,
+    "countsessions" : 2311,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-22 00:00:00",
+    "countusers" : 427,
+    "countsessions" : 2423,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-23 00:00:00",
+    "countusers" : 364,
+    "countsessions" : 2261,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-24 00:00:00",
+    "countusers" : 115,
+    "countsessions" : 1183,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-25 00:00:00",
+    "countusers" : 199,
+    "countsessions" : 1313,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-26 00:00:00",
+    "countusers" : 373,
+    "countsessions" : 2463,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-27 00:00:00",
+    "countusers" : 396,
+    "countsessions" : 2488,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-28 00:00:00",
+    "countusers" : 391,
+    "countsessions" : 2500,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-29 00:00:00",
+    "countusers" : 400,
+    "countsessions" : 2501,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-30 00:00:00",
+    "countusers" : 326,
+    "countsessions" : 2104,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-31 00:00:00",
+    "countusers" : 99,
+    "countsessions" : 1178,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-01 00:00:00",
+    "countusers" : 183,
+    "countsessions" : 1260,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-05-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-02 00:00:00",
+    "countusers" : 367,
+    "countsessions" : 2082,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-06-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-03 00:00:00",
+    "countusers" : 433,
+    "countsessions" : 2253,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-06-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-04 00:00:00",
+    "countusers" : 420,
+    "countsessions" : 2332,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-06-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-05 00:00:00",
+    "countusers" : 432,
+    "countsessions" : 2481,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-06-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-06 00:00:00",
+    "countusers" : 341,
+    "countsessions" : 1639,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-06-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-07 00:00:00",
+    "countusers" : 95,
+    "countsessions" : 785,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-06-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-08 00:00:00",
+    "countusers" : 118,
+    "countsessions" : 913,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-06-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-09 00:00:00",
+    "countusers" : 262,
+    "countsessions" : 1460,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-06-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-10 00:00:00",
+    "countusers" : 384,
+    "countsessions" : 2104,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-06-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-11 00:00:00",
+    "countusers" : 373,
+    "countsessions" : 2004,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-06-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-12 00:00:00",
+    "countusers" : 408,
+    "countsessions" : 2123,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-06-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-13 00:00:00",
+    "countusers" : 346,
+    "countsessions" : 1797,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-06-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-14 00:00:00",
+    "countusers" : 115,
+    "countsessions" : 806,
+    "billing_country" : "Australia",
+    "periodstart" : "2020-06-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-23 00:00:00",
+    "countusers" : 40,
+    "countsessions" : 250,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-01-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-24 00:00:00",
+    "countusers" : 45,
+    "countsessions" : 233,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-01-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-25 00:00:00",
+    "countusers" : 26,
+    "countsessions" : 108,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-01-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-26 00:00:00",
+    "countusers" : 1,
+    "countsessions" : 4,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-01-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-27 00:00:00",
+    "countusers" : 1,
+    "countsessions" : 1,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-01-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-28 00:00:00",
+    "countusers" : 40,
+    "countsessions" : 184,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-01-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-29 00:00:00",
+    "countusers" : 39,
+    "countsessions" : 181,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-01-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-30 00:00:00",
+    "countusers" : 35,
+    "countsessions" : 127,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-01-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-31 00:00:00",
+    "countusers" : 36,
+    "countsessions" : 156,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-01-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-01 00:00:00",
+    "countusers" : 23,
+    "countsessions" : 90,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-01-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-02 00:00:00",
+    "countusers" : 2,
+    "countsessions" : 3,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-03 00:00:00",
+    "countusers" : 3,
+    "countsessions" : 10,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-04 00:00:00",
+    "countusers" : 50,
+    "countsessions" : 232,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-05 00:00:00",
+    "countusers" : 44,
+    "countsessions" : 190,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-06 00:00:00",
+    "countusers" : 38,
+    "countsessions" : 209,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-07 00:00:00",
+    "countusers" : 37,
+    "countsessions" : 198,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-08 00:00:00",
+    "countusers" : 32,
+    "countsessions" : 118,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-09 00:00:00",
+    "countusers" : 0,
+    "countsessions" : 0,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-10 00:00:00",
+    "countusers" : 1,
+    "countsessions" : 2,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-11 00:00:00",
+    "countusers" : 38,
+    "countsessions" : 161,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-12 00:00:00",
+    "countusers" : 36,
+    "countsessions" : 128,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-13 00:00:00",
+    "countusers" : 37,
+    "countsessions" : 148,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-14 00:00:00",
+    "countusers" : 40,
+    "countsessions" : 167,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-15 00:00:00",
+    "countusers" : 32,
+    "countsessions" : 91,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-16 00:00:00",
+    "countusers" : 1,
+    "countsessions" : 7,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-17 00:00:00",
+    "countusers" : 5,
+    "countsessions" : 24,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-18 00:00:00",
+    "countusers" : 38,
+    "countsessions" : 176,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-19 00:00:00",
+    "countusers" : 39,
+    "countsessions" : 154,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-20 00:00:00",
+    "countusers" : 48,
+    "countsessions" : 158,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-21 00:00:00",
+    "countusers" : 43,
+    "countsessions" : 197,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-22 00:00:00",
+    "countusers" : 29,
+    "countsessions" : 159,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-23 00:00:00",
+    "countusers" : 5,
+    "countsessions" : 12,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-24 00:00:00",
+    "countusers" : 5,
+    "countsessions" : 7,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-25 00:00:00",
+    "countusers" : 53,
+    "countsessions" : 311,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-26 00:00:00",
+    "countusers" : 45,
+    "countsessions" : 278,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-27 00:00:00",
+    "countusers" : 56,
+    "countsessions" : 242,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-28 00:00:00",
+    "countusers" : 54,
+    "countsessions" : 202,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-29 00:00:00",
+    "countusers" : 37,
+    "countsessions" : 120,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-01 00:00:00",
+    "countusers" : 2,
+    "countsessions" : 5,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-02-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-02 00:00:00",
+    "countusers" : 6,
+    "countsessions" : 7,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-03 00:00:00",
+    "countusers" : 49,
+    "countsessions" : 190,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-04 00:00:00",
+    "countusers" : 45,
+    "countsessions" : 169,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-05 00:00:00",
+    "countusers" : 51,
+    "countsessions" : 191,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-06 00:00:00",
+    "countusers" : 47,
+    "countsessions" : 155,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-07 00:00:00",
+    "countusers" : 40,
+    "countsessions" : 109,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-08 00:00:00",
+    "countusers" : 3,
+    "countsessions" : 4,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-09 00:00:00",
+    "countusers" : 6,
+    "countsessions" : 11,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-10 00:00:00",
+    "countusers" : 48,
+    "countsessions" : 164,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-11 00:00:00",
+    "countusers" : 31,
+    "countsessions" : 111,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-12 00:00:00",
+    "countusers" : 42,
+    "countsessions" : 142,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-13 00:00:00",
+    "countusers" : 29,
+    "countsessions" : 106,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-14 00:00:00",
+    "countusers" : 30,
+    "countsessions" : 95,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-15 00:00:00",
+    "countusers" : 3,
+    "countsessions" : 8,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-16 00:00:00",
+    "countusers" : 5,
+    "countsessions" : 14,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-17 00:00:00",
+    "countusers" : 35,
+    "countsessions" : 174,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-18 00:00:00",
+    "countusers" : 33,
+    "countsessions" : 145,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-19 00:00:00",
+    "countusers" : 33,
+    "countsessions" : 204,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-20 00:00:00",
+    "countusers" : 33,
+    "countsessions" : 140,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-21 00:00:00",
+    "countusers" : 28,
+    "countsessions" : 118,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-22 00:00:00",
+    "countusers" : 5,
+    "countsessions" : 8,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-23 00:00:00",
+    "countusers" : 3,
+    "countsessions" : 3,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-24 00:00:00",
+    "countusers" : 42,
+    "countsessions" : 117,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-25 00:00:00",
+    "countusers" : 45,
+    "countsessions" : 200,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-26 00:00:00",
+    "countusers" : 39,
+    "countsessions" : 204,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-27 00:00:00",
+    "countusers" : 34,
+    "countsessions" : 202,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-28 00:00:00",
+    "countusers" : 30,
+    "countsessions" : 130,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-29 00:00:00",
+    "countusers" : 5,
+    "countsessions" : 8,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-30 00:00:00",
+    "countusers" : 2,
+    "countsessions" : 7,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-31 00:00:00",
+    "countusers" : 34,
+    "countsessions" : 137,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-01 00:00:00",
+    "countusers" : 43,
+    "countsessions" : 211,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-03-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-02 00:00:00",
+    "countusers" : 37,
+    "countsessions" : 156,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-03 00:00:00",
+    "countusers" : 40,
+    "countsessions" : 206,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-04 00:00:00",
+    "countusers" : 35,
+    "countsessions" : 217,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-05 00:00:00",
+    "countusers" : 5,
+    "countsessions" : 27,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-06 00:00:00",
+    "countusers" : 10,
+    "countsessions" : 48,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-07 00:00:00",
+    "countusers" : 45,
+    "countsessions" : 206,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-08 00:00:00",
+    "countusers" : 42,
+    "countsessions" : 230,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-09 00:00:00",
+    "countusers" : 43,
+    "countsessions" : 245,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-10 00:00:00",
+    "countusers" : 58,
+    "countsessions" : 318,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-11 00:00:00",
+    "countusers" : 32,
+    "countsessions" : 186,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-12 00:00:00",
+    "countusers" : 3,
+    "countsessions" : 18,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-13 00:00:00",
+    "countusers" : 2,
+    "countsessions" : 7,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-14 00:00:00",
+    "countusers" : 5,
+    "countsessions" : 16,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-15 00:00:00",
+    "countusers" : 45,
+    "countsessions" : 177,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-16 00:00:00",
+    "countusers" : 58,
+    "countsessions" : 222,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-17 00:00:00",
+    "countusers" : 41,
+    "countsessions" : 170,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-18 00:00:00",
+    "countusers" : 44,
+    "countsessions" : 166,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-19 00:00:00",
+    "countusers" : 6,
+    "countsessions" : 8,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-20 00:00:00",
+    "countusers" : 8,
+    "countsessions" : 34,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-21 00:00:00",
+    "countusers" : 46,
+    "countsessions" : 239,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-22 00:00:00",
+    "countusers" : 55,
+    "countsessions" : 250,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-23 00:00:00",
+    "countusers" : 44,
+    "countsessions" : 172,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-24 00:00:00",
+    "countusers" : 46,
+    "countsessions" : 221,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-25 00:00:00",
+    "countusers" : 33,
+    "countsessions" : 139,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-26 00:00:00",
+    "countusers" : 4,
+    "countsessions" : 10,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-27 00:00:00",
+    "countusers" : 6,
+    "countsessions" : 22,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-28 00:00:00",
+    "countusers" : 39,
+    "countsessions" : 140,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-29 00:00:00",
+    "countusers" : 49,
+    "countsessions" : 139,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-30 00:00:00",
+    "countusers" : 43,
+    "countsessions" : 185,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-01 00:00:00",
+    "countusers" : 35,
+    "countsessions" : 185,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-04-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-02 00:00:00",
+    "countusers" : 4,
+    "countsessions" : 6,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-03 00:00:00",
+    "countusers" : 4,
+    "countsessions" : 8,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-04 00:00:00",
+    "countusers" : 6,
+    "countsessions" : 10,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-05 00:00:00",
+    "countusers" : 52,
+    "countsessions" : 201,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-06 00:00:00",
+    "countusers" : 44,
+    "countsessions" : 239,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-07 00:00:00",
+    "countusers" : 48,
+    "countsessions" : 175,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-08 00:00:00",
+    "countusers" : 36,
+    "countsessions" : 148,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-09 00:00:00",
+    "countusers" : 31,
+    "countsessions" : 104,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-10 00:00:00",
+    "countusers" : 1,
+    "countsessions" : 1,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-11 00:00:00",
+    "countusers" : 3,
+    "countsessions" : 5,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-12 00:00:00",
+    "countusers" : 51,
+    "countsessions" : 198,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-13 00:00:00",
+    "countusers" : 42,
+    "countsessions" : 156,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-14 00:00:00",
+    "countusers" : 45,
+    "countsessions" : 163,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-15 00:00:00",
+    "countusers" : 36,
+    "countsessions" : 123,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-16 00:00:00",
+    "countusers" : 35,
+    "countsessions" : 128,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-17 00:00:00",
+    "countusers" : 1,
+    "countsessions" : 3,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-18 00:00:00",
+    "countusers" : 4,
+    "countsessions" : 12,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-19 00:00:00",
+    "countusers" : 40,
+    "countsessions" : 160,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-20 00:00:00",
+    "countusers" : 36,
+    "countsessions" : 144,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-21 00:00:00",
+    "countusers" : 33,
+    "countsessions" : 149,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-22 00:00:00",
+    "countusers" : 4,
+    "countsessions" : 16,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-23 00:00:00",
+    "countusers" : 17,
+    "countsessions" : 49,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-24 00:00:00",
+    "countusers" : 1,
+    "countsessions" : 1,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-25 00:00:00",
+    "countusers" : 5,
+    "countsessions" : 7,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-26 00:00:00",
+    "countusers" : 33,
+    "countsessions" : 157,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-27 00:00:00",
+    "countusers" : 32,
+    "countsessions" : 136,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-28 00:00:00",
+    "countusers" : 28,
+    "countsessions" : 107,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-29 00:00:00",
+    "countusers" : 32,
+    "countsessions" : 119,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-30 00:00:00",
+    "countusers" : 25,
+    "countsessions" : 74,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-31 00:00:00",
+    "countusers" : 2,
+    "countsessions" : 2,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-01 00:00:00",
+    "countusers" : 4,
+    "countsessions" : 5,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-05-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-02 00:00:00",
+    "countusers" : 2,
+    "countsessions" : 2,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-06-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-03 00:00:00",
+    "countusers" : 29,
+    "countsessions" : 122,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-06-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-04 00:00:00",
+    "countusers" : 39,
+    "countsessions" : 193,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-06-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-05 00:00:00",
+    "countusers" : 45,
+    "countsessions" : 352,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-06-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-06 00:00:00",
+    "countusers" : 38,
+    "countsessions" : 215,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-06-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-07 00:00:00",
+    "countusers" : 2,
+    "countsessions" : 2,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-06-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-08 00:00:00",
+    "countusers" : 5,
+    "countsessions" : 6,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-06-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-09 00:00:00",
+    "countusers" : 55,
+    "countsessions" : 244,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-06-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-10 00:00:00",
+    "countusers" : 65,
+    "countsessions" : 280,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-06-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-11 00:00:00",
+    "countusers" : 47,
+    "countsessions" : 259,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-06-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-12 00:00:00",
+    "countusers" : 4,
+    "countsessions" : 16,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-06-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-13 00:00:00",
+    "countusers" : 23,
+    "countsessions" : 95,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-06-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-14 00:00:00",
+    "countusers" : 2,
+    "countsessions" : 11,
+    "billing_country" : "Austria",
+    "periodstart" : "2020-06-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-23 00:00:00",
+    "countusers" : 595,
+    "countsessions" : 3471,
+    "billing_country" : "France",
+    "periodstart" : "2020-01-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-24 00:00:00",
+    "countusers" : 589,
+    "countsessions" : 3548,
+    "billing_country" : "France",
+    "periodstart" : "2020-01-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-25 00:00:00",
+    "countusers" : 501,
+    "countsessions" : 2789,
+    "billing_country" : "France",
+    "periodstart" : "2020-01-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-26 00:00:00",
+    "countusers" : 44,
+    "countsessions" : 580,
+    "billing_country" : "France",
+    "periodstart" : "2020-01-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-27 00:00:00",
+    "countusers" : 44,
+    "countsessions" : 598,
+    "billing_country" : "France",
+    "periodstart" : "2020-01-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-28 00:00:00",
+    "countusers" : 610,
+    "countsessions" : 3353,
+    "billing_country" : "France",
+    "periodstart" : "2020-01-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-29 00:00:00",
+    "countusers" : 566,
+    "countsessions" : 3204,
+    "billing_country" : "France",
+    "periodstart" : "2020-01-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-30 00:00:00",
+    "countusers" : 594,
+    "countsessions" : 3725,
+    "billing_country" : "France",
+    "periodstart" : "2020-01-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-31 00:00:00",
+    "countusers" : 576,
+    "countsessions" : 3414,
+    "billing_country" : "France",
+    "periodstart" : "2020-01-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-01 00:00:00",
+    "countusers" : 543,
+    "countsessions" : 3322,
+    "billing_country" : "France",
+    "periodstart" : "2020-01-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-02 00:00:00",
+    "countusers" : 52,
+    "countsessions" : 775,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-03 00:00:00",
+    "countusers" : 49,
+    "countsessions" : 657,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-04 00:00:00",
+    "countusers" : 615,
+    "countsessions" : 3788,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-05 00:00:00",
+    "countusers" : 615,
+    "countsessions" : 3829,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-06 00:00:00",
+    "countusers" : 603,
+    "countsessions" : 3975,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-07 00:00:00",
+    "countusers" : 598,
+    "countsessions" : 3697,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-08 00:00:00",
+    "countusers" : 501,
+    "countsessions" : 3299,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-09 00:00:00",
+    "countusers" : 46,
+    "countsessions" : 738,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-10 00:00:00",
+    "countusers" : 41,
+    "countsessions" : 790,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-11 00:00:00",
+    "countusers" : 548,
+    "countsessions" : 3627,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-12 00:00:00",
+    "countusers" : 564,
+    "countsessions" : 3408,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-13 00:00:00",
+    "countusers" : 586,
+    "countsessions" : 3283,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-14 00:00:00",
+    "countusers" : 568,
+    "countsessions" : 3101,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-15 00:00:00",
+    "countusers" : 515,
+    "countsessions" : 2566,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-16 00:00:00",
+    "countusers" : 52,
+    "countsessions" : 538,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-17 00:00:00",
+    "countusers" : 45,
+    "countsessions" : 558,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-18 00:00:00",
+    "countusers" : 565,
+    "countsessions" : 3401,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-19 00:00:00",
+    "countusers" : 589,
+    "countsessions" : 3493,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-20 00:00:00",
+    "countusers" : 565,
+    "countsessions" : 3190,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-21 00:00:00",
+    "countusers" : 540,
+    "countsessions" : 3100,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-22 00:00:00",
+    "countusers" : 462,
+    "countsessions" : 2743,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-23 00:00:00",
+    "countusers" : 62,
+    "countsessions" : 708,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-24 00:00:00",
+    "countusers" : 51,
+    "countsessions" : 492,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-25 00:00:00",
+    "countusers" : 513,
+    "countsessions" : 3196,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-26 00:00:00",
+    "countusers" : 570,
+    "countsessions" : 3436,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-27 00:00:00",
+    "countusers" : 569,
+    "countsessions" : 3348,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-28 00:00:00",
+    "countusers" : 549,
+    "countsessions" : 3432,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-29 00:00:00",
+    "countusers" : 493,
+    "countsessions" : 3568,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-01 00:00:00",
+    "countusers" : 57,
+    "countsessions" : 1111,
+    "billing_country" : "France",
+    "periodstart" : "2020-02-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-02 00:00:00",
+    "countusers" : 62,
+    "countsessions" : 980,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-03 00:00:00",
+    "countusers" : 590,
+    "countsessions" : 3098,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-04 00:00:00",
+    "countusers" : 632,
+    "countsessions" : 3330,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-05 00:00:00",
+    "countusers" : 644,
+    "countsessions" : 3449,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-06 00:00:00",
+    "countusers" : 579,
+    "countsessions" : 3202,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-07 00:00:00",
+    "countusers" : 524,
+    "countsessions" : 2718,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-08 00:00:00",
+    "countusers" : 74,
+    "countsessions" : 795,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-09 00:00:00",
+    "countusers" : 52,
+    "countsessions" : 514,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-10 00:00:00",
+    "countusers" : 556,
+    "countsessions" : 3265,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-11 00:00:00",
+    "countusers" : 574,
+    "countsessions" : 3555,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-12 00:00:00",
+    "countusers" : 540,
+    "countsessions" : 3183,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-13 00:00:00",
+    "countusers" : 570,
+    "countsessions" : 3165,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-14 00:00:00",
+    "countusers" : 506,
+    "countsessions" : 2669,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-15 00:00:00",
+    "countusers" : 74,
+    "countsessions" : 645,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-16 00:00:00",
+    "countusers" : 79,
+    "countsessions" : 663,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-17 00:00:00",
+    "countusers" : 512,
+    "countsessions" : 2855,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-18 00:00:00",
+    "countusers" : 516,
+    "countsessions" : 2999,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-19 00:00:00",
+    "countusers" : 530,
+    "countsessions" : 3147,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-20 00:00:00",
+    "countusers" : 515,
+    "countsessions" : 2902,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-21 00:00:00",
+    "countusers" : 459,
+    "countsessions" : 2624,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-22 00:00:00",
+    "countusers" : 78,
+    "countsessions" : 588,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-23 00:00:00",
+    "countusers" : 79,
+    "countsessions" : 600,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-24 00:00:00",
+    "countusers" : 519,
+    "countsessions" : 3028,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-25 00:00:00",
+    "countusers" : 473,
+    "countsessions" : 2913,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-26 00:00:00",
+    "countusers" : 444,
+    "countsessions" : 2668,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-27 00:00:00",
+    "countusers" : 517,
+    "countsessions" : 2928,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-28 00:00:00",
+    "countusers" : 465,
+    "countsessions" : 2582,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-29 00:00:00",
+    "countusers" : 78,
+    "countsessions" : 652,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-30 00:00:00",
+    "countusers" : 85,
+    "countsessions" : 625,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-31 00:00:00",
+    "countusers" : 536,
+    "countsessions" : 3323,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-01 00:00:00",
+    "countusers" : 516,
+    "countsessions" : 3149,
+    "billing_country" : "France",
+    "periodstart" : "2020-03-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-02 00:00:00",
+    "countusers" : 534,
+    "countsessions" : 3199,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-03 00:00:00",
+    "countusers" : 549,
+    "countsessions" : 3021,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-04 00:00:00",
+    "countusers" : 472,
+    "countsessions" : 2502,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-05 00:00:00",
+    "countusers" : 96,
+    "countsessions" : 865,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-06 00:00:00",
+    "countusers" : 95,
+    "countsessions" : 770,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-07 00:00:00",
+    "countusers" : 535,
+    "countsessions" : 3212,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-08 00:00:00",
+    "countusers" : 529,
+    "countsessions" : 3010,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-09 00:00:00",
+    "countusers" : 526,
+    "countsessions" : 3037,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-10 00:00:00",
+    "countusers" : 503,
+    "countsessions" : 2678,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-11 00:00:00",
+    "countusers" : 483,
+    "countsessions" : 2402,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-12 00:00:00",
+    "countusers" : 93,
+    "countsessions" : 770,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-13 00:00:00",
+    "countusers" : 72,
+    "countsessions" : 701,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-14 00:00:00",
+    "countusers" : 151,
+    "countsessions" : 1393,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-15 00:00:00",
+    "countusers" : 545,
+    "countsessions" : 3105,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-16 00:00:00",
+    "countusers" : 529,
+    "countsessions" : 3064,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-17 00:00:00",
+    "countusers" : 577,
+    "countsessions" : 3035,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-18 00:00:00",
+    "countusers" : 515,
+    "countsessions" : 2805,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-19 00:00:00",
+    "countusers" : 107,
+    "countsessions" : 856,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-20 00:00:00",
+    "countusers" : 103,
+    "countsessions" : 744,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-21 00:00:00",
+    "countusers" : 590,
+    "countsessions" : 3285,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-22 00:00:00",
+    "countusers" : 559,
+    "countsessions" : 3258,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-23 00:00:00",
+    "countusers" : 550,
+    "countsessions" : 3203,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-24 00:00:00",
+    "countusers" : 515,
+    "countsessions" : 3227,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-25 00:00:00",
+    "countusers" : 472,
+    "countsessions" : 2636,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-26 00:00:00",
+    "countusers" : 105,
+    "countsessions" : 783,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-27 00:00:00",
+    "countusers" : 83,
+    "countsessions" : 795,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-28 00:00:00",
+    "countusers" : 547,
+    "countsessions" : 3039,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-29 00:00:00",
+    "countusers" : 547,
+    "countsessions" : 3086,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-30 00:00:00",
+    "countusers" : 552,
+    "countsessions" : 2939,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-01 00:00:00",
+    "countusers" : 511,
+    "countsessions" : 2538,
+    "billing_country" : "France",
+    "periodstart" : "2020-04-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-02 00:00:00",
+    "countusers" : 111,
+    "countsessions" : 938,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-03 00:00:00",
+    "countusers" : 78,
+    "countsessions" : 630,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-04 00:00:00",
+    "countusers" : 77,
+    "countsessions" : 666,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-05 00:00:00",
+    "countusers" : 541,
+    "countsessions" : 2846,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-06 00:00:00",
+    "countusers" : 577,
+    "countsessions" : 3104,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-07 00:00:00",
+    "countusers" : 568,
+    "countsessions" : 3360,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-08 00:00:00",
+    "countusers" : 500,
+    "countsessions" : 3025,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-09 00:00:00",
+    "countusers" : 166,
+    "countsessions" : 1121,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-10 00:00:00",
+    "countusers" : 84,
+    "countsessions" : 771,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-11 00:00:00",
+    "countusers" : 80,
+    "countsessions" : 627,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-12 00:00:00",
+    "countusers" : 579,
+    "countsessions" : 3025,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-13 00:00:00",
+    "countusers" : 556,
+    "countsessions" : 3159,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-14 00:00:00",
+    "countusers" : 548,
+    "countsessions" : 3057,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-15 00:00:00",
+    "countusers" : 525,
+    "countsessions" : 3036,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-16 00:00:00",
+    "countusers" : 526,
+    "countsessions" : 2658,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-17 00:00:00",
+    "countusers" : 86,
+    "countsessions" : 619,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-18 00:00:00",
+    "countusers" : 81,
+    "countsessions" : 708,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-19 00:00:00",
+    "countusers" : 537,
+    "countsessions" : 2878,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-20 00:00:00",
+    "countusers" : 529,
+    "countsessions" : 2758,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-21 00:00:00",
+    "countusers" : 549,
+    "countsessions" : 2744,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-22 00:00:00",
+    "countusers" : 176,
+    "countsessions" : 912,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-23 00:00:00",
+    "countusers" : 314,
+    "countsessions" : 1497,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-24 00:00:00",
+    "countusers" : 75,
+    "countsessions" : 613,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-25 00:00:00",
+    "countusers" : 67,
+    "countsessions" : 507,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-26 00:00:00",
+    "countusers" : 472,
+    "countsessions" : 2541,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-27 00:00:00",
+    "countusers" : 523,
+    "countsessions" : 3366,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-28 00:00:00",
+    "countusers" : 558,
+    "countsessions" : 3239,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-29 00:00:00",
+    "countusers" : 530,
+    "countsessions" : 3039,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-30 00:00:00",
+    "countusers" : 494,
+    "countsessions" : 2629,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-31 00:00:00",
+    "countusers" : 71,
+    "countsessions" : 666,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-01 00:00:00",
+    "countusers" : 61,
+    "countsessions" : 547,
+    "billing_country" : "France",
+    "periodstart" : "2020-05-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-02 00:00:00",
+    "countusers" : 178,
+    "countsessions" : 1206,
+    "billing_country" : "France",
+    "periodstart" : "2020-06-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-03 00:00:00",
+    "countusers" : 553,
+    "countsessions" : 3054,
+    "billing_country" : "France",
+    "periodstart" : "2020-06-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-04 00:00:00",
+    "countusers" : 580,
+    "countsessions" : 3473,
+    "billing_country" : "France",
+    "periodstart" : "2020-06-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-05 00:00:00",
+    "countusers" : 598,
+    "countsessions" : 3701,
+    "billing_country" : "France",
+    "periodstart" : "2020-06-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-06 00:00:00",
+    "countusers" : 571,
+    "countsessions" : 2950,
+    "billing_country" : "France",
+    "periodstart" : "2020-06-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-07 00:00:00",
+    "countusers" : 84,
+    "countsessions" : 916,
+    "billing_country" : "France",
+    "periodstart" : "2020-06-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-08 00:00:00",
+    "countusers" : 76,
+    "countsessions" : 843,
+    "billing_country" : "France",
+    "periodstart" : "2020-06-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-09 00:00:00",
+    "countusers" : 612,
+    "countsessions" : 3444,
+    "billing_country" : "France",
+    "periodstart" : "2020-06-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-10 00:00:00",
+    "countusers" : 591,
+    "countsessions" : 2941,
+    "billing_country" : "France",
+    "periodstart" : "2020-06-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-11 00:00:00",
+    "countusers" : 590,
+    "countsessions" : 3715,
+    "billing_country" : "France",
+    "periodstart" : "2020-06-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-12 00:00:00",
+    "countusers" : 587,
+    "countsessions" : 3285,
+    "billing_country" : "France",
+    "periodstart" : "2020-06-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-13 00:00:00",
+    "countusers" : 502,
+    "countsessions" : 2562,
+    "billing_country" : "France",
+    "periodstart" : "2020-06-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-14 00:00:00",
+    "countusers" : 70,
+    "countsessions" : 807,
+    "billing_country" : "France",
+    "periodstart" : "2020-06-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-23 00:00:00",
+    "countusers" : 62,
+    "countsessions" : 321,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-01-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-24 00:00:00",
+    "countusers" : 58,
+    "countsessions" : 291,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-01-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-25 00:00:00",
+    "countusers" : 57,
+    "countsessions" : 322,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-01-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-26 00:00:00",
+    "countusers" : 12,
+    "countsessions" : 80,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-01-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-27 00:00:00",
+    "countusers" : 12,
+    "countsessions" : 49,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-01-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-28 00:00:00",
+    "countusers" : 59,
+    "countsessions" : 394,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-01-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-29 00:00:00",
+    "countusers" : 45,
+    "countsessions" : 620,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-01-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-30 00:00:00",
+    "countusers" : 43,
+    "countsessions" : 487,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-01-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-31 00:00:00",
+    "countusers" : 47,
+    "countsessions" : 348,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-01-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-01 00:00:00",
+    "countusers" : 46,
+    "countsessions" : 303,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-01-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-02 00:00:00",
+    "countusers" : 18,
+    "countsessions" : 103,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-03 00:00:00",
+    "countusers" : 16,
+    "countsessions" : 83,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-04 00:00:00",
+    "countusers" : 44,
+    "countsessions" : 276,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-05 00:00:00",
+    "countusers" : 50,
+    "countsessions" : 347,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-06 00:00:00",
+    "countusers" : 44,
+    "countsessions" : 297,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-07 00:00:00",
+    "countusers" : 50,
+    "countsessions" : 230,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-08 00:00:00",
+    "countusers" : 35,
+    "countsessions" : 250,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-09 00:00:00",
+    "countusers" : 15,
+    "countsessions" : 68,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-10 00:00:00",
+    "countusers" : 8,
+    "countsessions" : 43,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-11 00:00:00",
+    "countusers" : 52,
+    "countsessions" : 280,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-12 00:00:00",
+    "countusers" : 50,
+    "countsessions" : 382,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-13 00:00:00",
+    "countusers" : 52,
+    "countsessions" : 409,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-14 00:00:00",
+    "countusers" : 57,
+    "countsessions" : 421,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-15 00:00:00",
+    "countusers" : 51,
+    "countsessions" : 264,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-16 00:00:00",
+    "countusers" : 15,
+    "countsessions" : 48,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-17 00:00:00",
+    "countusers" : 14,
+    "countsessions" : 103,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-18 00:00:00",
+    "countusers" : 53,
+    "countsessions" : 375,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-19 00:00:00",
+    "countusers" : 49,
+    "countsessions" : 283,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-20 00:00:00",
+    "countusers" : 46,
+    "countsessions" : 258,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-21 00:00:00",
+    "countusers" : 52,
+    "countsessions" : 313,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-22 00:00:00",
+    "countusers" : 57,
+    "countsessions" : 531,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-23 00:00:00",
+    "countusers" : 19,
+    "countsessions" : 75,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-24 00:00:00",
+    "countusers" : 13,
+    "countsessions" : 72,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-25 00:00:00",
+    "countusers" : 52,
+    "countsessions" : 395,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-26 00:00:00",
+    "countusers" : 52,
+    "countsessions" : 269,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-27 00:00:00",
+    "countusers" : 47,
+    "countsessions" : 340,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-28 00:00:00",
+    "countusers" : 50,
+    "countsessions" : 234,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-29 00:00:00",
+    "countusers" : 40,
+    "countsessions" : 348,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-01 00:00:00",
+    "countusers" : 13,
+    "countsessions" : 45,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-02-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-02 00:00:00",
+    "countusers" : 10,
+    "countsessions" : 41,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-03 00:00:00",
+    "countusers" : 44,
+    "countsessions" : 232,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-04 00:00:00",
+    "countusers" : 44,
+    "countsessions" : 318,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-05 00:00:00",
+    "countusers" : 56,
+    "countsessions" : 416,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-06 00:00:00",
+    "countusers" : 57,
+    "countsessions" : 290,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-07 00:00:00",
+    "countusers" : 53,
+    "countsessions" : 297,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-08 00:00:00",
+    "countusers" : 10,
+    "countsessions" : 28,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-09 00:00:00",
+    "countusers" : 12,
+    "countsessions" : 55,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-10 00:00:00",
+    "countusers" : 51,
+    "countsessions" : 221,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-11 00:00:00",
+    "countusers" : 53,
+    "countsessions" : 278,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-12 00:00:00",
+    "countusers" : 57,
+    "countsessions" : 193,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-13 00:00:00",
+    "countusers" : 53,
+    "countsessions" : 269,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-14 00:00:00",
+    "countusers" : 44,
+    "countsessions" : 250,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-15 00:00:00",
+    "countusers" : 10,
+    "countsessions" : 65,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-16 00:00:00",
+    "countusers" : 8,
+    "countsessions" : 30,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-17 00:00:00",
+    "countusers" : 46,
+    "countsessions" : 219,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-18 00:00:00",
+    "countusers" : 46,
+    "countsessions" : 252,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-19 00:00:00",
+    "countusers" : 58,
+    "countsessions" : 406,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-20 00:00:00",
+    "countusers" : 55,
+    "countsessions" : 545,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-21 00:00:00",
+    "countusers" : 55,
+    "countsessions" : 509,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-22 00:00:00",
+    "countusers" : 12,
+    "countsessions" : 32,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-23 00:00:00",
+    "countusers" : 13,
+    "countsessions" : 61,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-24 00:00:00",
+    "countusers" : 46,
+    "countsessions" : 283,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-25 00:00:00",
+    "countusers" : 47,
+    "countsessions" : 270,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-26 00:00:00",
+    "countusers" : 44,
+    "countsessions" : 324,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-27 00:00:00",
+    "countusers" : 48,
+    "countsessions" : 427,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-28 00:00:00",
+    "countusers" : 43,
+    "countsessions" : 319,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-29 00:00:00",
+    "countusers" : 10,
+    "countsessions" : 88,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-30 00:00:00",
+    "countusers" : 13,
+    "countsessions" : 123,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-31 00:00:00",
+    "countusers" : 40,
+    "countsessions" : 296,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-01 00:00:00",
+    "countusers" : 54,
+    "countsessions" : 376,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-03-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-02 00:00:00",
+    "countusers" : 53,
+    "countsessions" : 475,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-03 00:00:00",
+    "countusers" : 48,
+    "countsessions" : 324,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-04 00:00:00",
+    "countusers" : 55,
+    "countsessions" : 542,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-05 00:00:00",
+    "countusers" : 15,
+    "countsessions" : 49,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-06 00:00:00",
+    "countusers" : 13,
+    "countsessions" : 95,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-07 00:00:00",
+    "countusers" : 53,
+    "countsessions" : 328,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-08 00:00:00",
+    "countusers" : 56,
+    "countsessions" : 523,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-09 00:00:00",
+    "countusers" : 56,
+    "countsessions" : 356,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-10 00:00:00",
+    "countusers" : 49,
+    "countsessions" : 445,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-11 00:00:00",
+    "countusers" : 46,
+    "countsessions" : 371,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-12 00:00:00",
+    "countusers" : 13,
+    "countsessions" : 37,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-13 00:00:00",
+    "countusers" : 9,
+    "countsessions" : 30,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-14 00:00:00",
+    "countusers" : 13,
+    "countsessions" : 45,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-15 00:00:00",
+    "countusers" : 59,
+    "countsessions" : 398,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-16 00:00:00",
+    "countusers" : 48,
+    "countsessions" : 303,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-17 00:00:00",
+    "countusers" : 53,
+    "countsessions" : 251,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-18 00:00:00",
+    "countusers" : 44,
+    "countsessions" : 201,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-19 00:00:00",
+    "countusers" : 17,
+    "countsessions" : 54,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-20 00:00:00",
+    "countusers" : 10,
+    "countsessions" : 62,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-21 00:00:00",
+    "countusers" : 54,
+    "countsessions" : 292,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-22 00:00:00",
+    "countusers" : 56,
+    "countsessions" : 353,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-23 00:00:00",
+    "countusers" : 49,
+    "countsessions" : 266,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-24 00:00:00",
+    "countusers" : 46,
+    "countsessions" : 251,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-25 00:00:00",
+    "countusers" : 47,
+    "countsessions" : 238,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-26 00:00:00",
+    "countusers" : 21,
+    "countsessions" : 124,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-27 00:00:00",
+    "countusers" : 21,
+    "countsessions" : 214,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-28 00:00:00",
+    "countusers" : 60,
+    "countsessions" : 368,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-29 00:00:00",
+    "countusers" : 52,
+    "countsessions" : 311,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-30 00:00:00",
+    "countusers" : 58,
+    "countsessions" : 434,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-01 00:00:00",
+    "countusers" : 62,
+    "countsessions" : 641,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-04-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-02 00:00:00",
+    "countusers" : 21,
+    "countsessions" : 154,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-03 00:00:00",
+    "countusers" : 14,
+    "countsessions" : 80,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-04 00:00:00",
+    "countusers" : 13,
+    "countsessions" : 46,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-05 00:00:00",
+    "countusers" : 58,
+    "countsessions" : 374,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-06 00:00:00",
+    "countusers" : 68,
+    "countsessions" : 395,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-07 00:00:00",
+    "countusers" : 60,
+    "countsessions" : 277,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-08 00:00:00",
+    "countusers" : 74,
+    "countsessions" : 539,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-09 00:00:00",
+    "countusers" : 61,
+    "countsessions" : 490,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-10 00:00:00",
+    "countusers" : 16,
+    "countsessions" : 78,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-11 00:00:00",
+    "countusers" : 17,
+    "countsessions" : 79,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-12 00:00:00",
+    "countusers" : 74,
+    "countsessions" : 364,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-13 00:00:00",
+    "countusers" : 66,
+    "countsessions" : 249,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-14 00:00:00",
+    "countusers" : 77,
+    "countsessions" : 463,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-15 00:00:00",
+    "countusers" : 73,
+    "countsessions" : 427,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-16 00:00:00",
+    "countusers" : 69,
+    "countsessions" : 359,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-17 00:00:00",
+    "countusers" : 13,
+    "countsessions" : 58,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-18 00:00:00",
+    "countusers" : 20,
+    "countsessions" : 83,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-19 00:00:00",
+    "countusers" : 75,
+    "countsessions" : 453,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-20 00:00:00",
+    "countusers" : 85,
+    "countsessions" : 450,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-21 00:00:00",
+    "countusers" : 69,
+    "countsessions" : 372,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-22 00:00:00",
+    "countusers" : 74,
+    "countsessions" : 410,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-23 00:00:00",
+    "countusers" : 57,
+    "countsessions" : 269,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-24 00:00:00",
+    "countusers" : 22,
+    "countsessions" : 196,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-25 00:00:00",
+    "countusers" : 20,
+    "countsessions" : 129,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-26 00:00:00",
+    "countusers" : 66,
+    "countsessions" : 542,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-27 00:00:00",
+    "countusers" : 71,
+    "countsessions" : 541,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-28 00:00:00",
+    "countusers" : 77,
+    "countsessions" : 710,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-29 00:00:00",
+    "countusers" : 85,
+    "countsessions" : 531,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-30 00:00:00",
+    "countusers" : 75,
+    "countsessions" : 634,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-31 00:00:00",
+    "countusers" : 18,
+    "countsessions" : 145,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-01 00:00:00",
+    "countusers" : 22,
+    "countsessions" : 110,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-05-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-02 00:00:00",
+    "countusers" : 68,
+    "countsessions" : 569,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-06-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-03 00:00:00",
+    "countusers" : 91,
+    "countsessions" : 577,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-06-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-04 00:00:00",
+    "countusers" : 65,
+    "countsessions" : 332,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-06-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-05 00:00:00",
+    "countusers" : 80,
+    "countsessions" : 522,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-06-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-06 00:00:00",
+    "countusers" : 58,
+    "countsessions" : 324,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-06-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-07 00:00:00",
+    "countusers" : 14,
+    "countsessions" : 72,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-06-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-08 00:00:00",
+    "countusers" : 17,
+    "countsessions" : 130,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-06-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-09 00:00:00",
+    "countusers" : 74,
+    "countsessions" : 436,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-06-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-10 00:00:00",
+    "countusers" : 80,
+    "countsessions" : 520,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-06-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-11 00:00:00",
+    "countusers" : 83,
+    "countsessions" : 439,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-06-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-12 00:00:00",
+    "countusers" : 15,
+    "countsessions" : 34,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-06-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-13 00:00:00",
+    "countusers" : 40,
+    "countsessions" : 347,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-06-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-14 00:00:00",
+    "countusers" : 13,
+    "countsessions" : 69,
+    "billing_country" : "Poland",
+    "periodstart" : "2020-06-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-23 00:00:00",
+    "countusers" : 165,
+    "countsessions" : 904,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-01-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-24 00:00:00",
+    "countusers" : 162,
+    "countsessions" : 962,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-01-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-25 00:00:00",
+    "countusers" : 168,
+    "countsessions" : 865,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-01-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-26 00:00:00",
+    "countusers" : 20,
+    "countsessions" : 151,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-01-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-27 00:00:00",
+    "countusers" : 13,
+    "countsessions" : 140,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-01-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-28 00:00:00",
+    "countusers" : 184,
+    "countsessions" : 909,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-01-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-29 00:00:00",
+    "countusers" : 180,
+    "countsessions" : 1092,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-01-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-30 00:00:00",
+    "countusers" : 184,
+    "countsessions" : 984,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-01-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-31 00:00:00",
+    "countusers" : 168,
+    "countsessions" : 850,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-01-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-01 00:00:00",
+    "countusers" : 143,
+    "countsessions" : 686,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-01-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-02 00:00:00",
+    "countusers" : 14,
+    "countsessions" : 85,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-03 00:00:00",
+    "countusers" : 13,
+    "countsessions" : 71,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-04 00:00:00",
+    "countusers" : 185,
+    "countsessions" : 979,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-05 00:00:00",
+    "countusers" : 196,
+    "countsessions" : 1005,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-06 00:00:00",
+    "countusers" : 190,
+    "countsessions" : 1068,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-07 00:00:00",
+    "countusers" : 193,
+    "countsessions" : 1111,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-08 00:00:00",
+    "countusers" : 170,
+    "countsessions" : 939,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-09 00:00:00",
+    "countusers" : 20,
+    "countsessions" : 169,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-10 00:00:00",
+    "countusers" : 20,
+    "countsessions" : 133,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-11 00:00:00",
+    "countusers" : 181,
+    "countsessions" : 1169,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-12 00:00:00",
+    "countusers" : 195,
+    "countsessions" : 1135,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-13 00:00:00",
+    "countusers" : 195,
+    "countsessions" : 982,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-14 00:00:00",
+    "countusers" : 174,
+    "countsessions" : 996,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-15 00:00:00",
+    "countusers" : 151,
+    "countsessions" : 696,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-16 00:00:00",
+    "countusers" : 25,
+    "countsessions" : 101,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-17 00:00:00",
+    "countusers" : 15,
+    "countsessions" : 92,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-18 00:00:00",
+    "countusers" : 196,
+    "countsessions" : 1311,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-19 00:00:00",
+    "countusers" : 179,
+    "countsessions" : 1274,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-20 00:00:00",
+    "countusers" : 193,
+    "countsessions" : 958,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-21 00:00:00",
+    "countusers" : 183,
+    "countsessions" : 869,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-22 00:00:00",
+    "countusers" : 168,
+    "countsessions" : 840,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-23 00:00:00",
+    "countusers" : 18,
+    "countsessions" : 94,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-24 00:00:00",
+    "countusers" : 19,
+    "countsessions" : 43,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-25 00:00:00",
+    "countusers" : 164,
+    "countsessions" : 874,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-26 00:00:00",
+    "countusers" : 174,
+    "countsessions" : 992,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-27 00:00:00",
+    "countusers" : 171,
+    "countsessions" : 819,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-28 00:00:00",
+    "countusers" : 194,
+    "countsessions" : 1012,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-29 00:00:00",
+    "countusers" : 143,
+    "countsessions" : 795,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-01 00:00:00",
+    "countusers" : 25,
+    "countsessions" : 126,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-02-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-02 00:00:00",
+    "countusers" : 24,
+    "countsessions" : 110,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-03 00:00:00",
+    "countusers" : 193,
+    "countsessions" : 999,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-04 00:00:00",
+    "countusers" : 198,
+    "countsessions" : 1038,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-05 00:00:00",
+    "countusers" : 194,
+    "countsessions" : 1092,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-06 00:00:00",
+    "countusers" : 196,
+    "countsessions" : 1102,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-07 00:00:00",
+    "countusers" : 172,
+    "countsessions" : 838,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-08 00:00:00",
+    "countusers" : 19,
+    "countsessions" : 149,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-09 00:00:00",
+    "countusers" : 24,
+    "countsessions" : 100,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-10 00:00:00",
+    "countusers" : 205,
+    "countsessions" : 1291,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-11 00:00:00",
+    "countusers" : 186,
+    "countsessions" : 1021,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-12 00:00:00",
+    "countusers" : 192,
+    "countsessions" : 1060,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-13 00:00:00",
+    "countusers" : 213,
+    "countsessions" : 1069,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-14 00:00:00",
+    "countusers" : 186,
+    "countsessions" : 1001,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-15 00:00:00",
+    "countusers" : 41,
+    "countsessions" : 201,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-16 00:00:00",
+    "countusers" : 30,
+    "countsessions" : 142,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-17 00:00:00",
+    "countusers" : 195,
+    "countsessions" : 1056,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-18 00:00:00",
+    "countusers" : 182,
+    "countsessions" : 928,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-19 00:00:00",
+    "countusers" : 193,
+    "countsessions" : 1022,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-20 00:00:00",
+    "countusers" : 167,
+    "countsessions" : 974,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-21 00:00:00",
+    "countusers" : 161,
+    "countsessions" : 844,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-22 00:00:00",
+    "countusers" : 18,
+    "countsessions" : 125,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-23 00:00:00",
+    "countusers" : 17,
+    "countsessions" : 102,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-24 00:00:00",
+    "countusers" : 164,
+    "countsessions" : 1041,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-25 00:00:00",
+    "countusers" : 168,
+    "countsessions" : 911,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-26 00:00:00",
+    "countusers" : 171,
+    "countsessions" : 887,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-27 00:00:00",
+    "countusers" : 199,
+    "countsessions" : 1414,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-28 00:00:00",
+    "countusers" : 179,
+    "countsessions" : 1246,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-29 00:00:00",
+    "countusers" : 36,
+    "countsessions" : 392,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-30 00:00:00",
+    "countusers" : 48,
+    "countsessions" : 397,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-31 00:00:00",
+    "countusers" : 175,
+    "countsessions" : 1330,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-01 00:00:00",
+    "countusers" : 183,
+    "countsessions" : 1163,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-03-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-02 00:00:00",
+    "countusers" : 200,
+    "countsessions" : 1164,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-03 00:00:00",
+    "countusers" : 217,
+    "countsessions" : 1336,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-04 00:00:00",
+    "countusers" : 209,
+    "countsessions" : 1214,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-05 00:00:00",
+    "countusers" : 41,
+    "countsessions" : 222,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-06 00:00:00",
+    "countusers" : 33,
+    "countsessions" : 176,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-07 00:00:00",
+    "countusers" : 199,
+    "countsessions" : 1385,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-08 00:00:00",
+    "countusers" : 187,
+    "countsessions" : 1148,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-09 00:00:00",
+    "countusers" : 178,
+    "countsessions" : 1019,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-10 00:00:00",
+    "countusers" : 64,
+    "countsessions" : 370,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-11 00:00:00",
+    "countusers" : 37,
+    "countsessions" : 214,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-12 00:00:00",
+    "countusers" : 26,
+    "countsessions" : 111,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-13 00:00:00",
+    "countusers" : 24,
+    "countsessions" : 146,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-14 00:00:00",
+    "countusers" : 147,
+    "countsessions" : 760,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-15 00:00:00",
+    "countusers" : 178,
+    "countsessions" : 1046,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-16 00:00:00",
+    "countusers" : 163,
+    "countsessions" : 1054,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-17 00:00:00",
+    "countusers" : 198,
+    "countsessions" : 1130,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-18 00:00:00",
+    "countusers" : 174,
+    "countsessions" : 901,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-19 00:00:00",
+    "countusers" : 44,
+    "countsessions" : 196,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-20 00:00:00",
+    "countusers" : 42,
+    "countsessions" : 187,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-21 00:00:00",
+    "countusers" : 213,
+    "countsessions" : 1347,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-22 00:00:00",
+    "countusers" : 147,
+    "countsessions" : 786,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-23 00:00:00",
+    "countusers" : 162,
+    "countsessions" : 765,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-24 00:00:00",
+    "countusers" : 157,
+    "countsessions" : 726,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-25 00:00:00",
+    "countusers" : 137,
+    "countsessions" : 623,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-26 00:00:00",
+    "countusers" : 28,
+    "countsessions" : 139,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-27 00:00:00",
+    "countusers" : 27,
+    "countsessions" : 104,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-28 00:00:00",
+    "countusers" : 162,
+    "countsessions" : 767,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-29 00:00:00",
+    "countusers" : 169,
+    "countsessions" : 881,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-30 00:00:00",
+    "countusers" : 162,
+    "countsessions" : 797,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-01 00:00:00",
+    "countusers" : 150,
+    "countsessions" : 698,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-04-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-02 00:00:00",
+    "countusers" : 24,
+    "countsessions" : 66,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-03 00:00:00",
+    "countusers" : 23,
+    "countsessions" : 142,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-04 00:00:00",
+    "countusers" : 12,
+    "countsessions" : 26,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-05 00:00:00",
+    "countusers" : 149,
+    "countsessions" : 775,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-06 00:00:00",
+    "countusers" : 161,
+    "countsessions" : 898,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-07 00:00:00",
+    "countusers" : 158,
+    "countsessions" : 993,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-08 00:00:00",
+    "countusers" : 157,
+    "countsessions" : 1127,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-09 00:00:00",
+    "countusers" : 130,
+    "countsessions" : 607,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-10 00:00:00",
+    "countusers" : 32,
+    "countsessions" : 126,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-11 00:00:00",
+    "countusers" : 22,
+    "countsessions" : 68,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-12 00:00:00",
+    "countusers" : 156,
+    "countsessions" : 920,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-13 00:00:00",
+    "countusers" : 183,
+    "countsessions" : 1058,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-14 00:00:00",
+    "countusers" : 184,
+    "countsessions" : 1041,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-15 00:00:00",
+    "countusers" : 172,
+    "countsessions" : 930,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-16 00:00:00",
+    "countusers" : 76,
+    "countsessions" : 344,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-17 00:00:00",
+    "countusers" : 31,
+    "countsessions" : 97,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-18 00:00:00",
+    "countusers" : 21,
+    "countsessions" : 46,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-19 00:00:00",
+    "countusers" : 169,
+    "countsessions" : 971,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-20 00:00:00",
+    "countusers" : 160,
+    "countsessions" : 973,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-21 00:00:00",
+    "countusers" : 159,
+    "countsessions" : 979,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-22 00:00:00",
+    "countusers" : 156,
+    "countsessions" : 775,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-23 00:00:00",
+    "countusers" : 149,
+    "countsessions" : 694,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-24 00:00:00",
+    "countusers" : 33,
+    "countsessions" : 195,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-25 00:00:00",
+    "countusers" : 22,
+    "countsessions" : 95,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-26 00:00:00",
+    "countusers" : 183,
+    "countsessions" : 1022,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-27 00:00:00",
+    "countusers" : 167,
+    "countsessions" : 881,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-28 00:00:00",
+    "countusers" : 162,
+    "countsessions" : 803,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-29 00:00:00",
+    "countusers" : 152,
+    "countsessions" : 827,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-30 00:00:00",
+    "countusers" : 171,
+    "countsessions" : 991,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-31 00:00:00",
+    "countusers" : 41,
+    "countsessions" : 148,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-01 00:00:00",
+    "countusers" : 26,
+    "countsessions" : 66,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-05-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-02 00:00:00",
+    "countusers" : 180,
+    "countsessions" : 845,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-06-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-03 00:00:00",
+    "countusers" : 191,
+    "countsessions" : 1232,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-06-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-04 00:00:00",
+    "countusers" : 188,
+    "countsessions" : 984,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-06-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-05 00:00:00",
+    "countusers" : 183,
+    "countsessions" : 930,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-06-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-06 00:00:00",
+    "countusers" : 176,
+    "countsessions" : 916,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-06-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-07 00:00:00",
+    "countusers" : 28,
+    "countsessions" : 80,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-06-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-08 00:00:00",
+    "countusers" : 29,
+    "countsessions" : 100,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-06-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-09 00:00:00",
+    "countusers" : 196,
+    "countsessions" : 990,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-06-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-10 00:00:00",
+    "countusers" : 189,
+    "countsessions" : 917,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-06-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-11 00:00:00",
+    "countusers" : 207,
+    "countsessions" : 1027,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-06-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-12 00:00:00",
+    "countusers" : 229,
+    "countsessions" : 1159,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-06-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-13 00:00:00",
+    "countusers" : 180,
+    "countsessions" : 805,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-06-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-14 00:00:00",
+    "countusers" : 34,
+    "countsessions" : 126,
+    "billing_country" : "Spain",
+    "periodstart" : "2020-06-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-23 00:00:00",
+    "countusers" : 968,
+    "countsessions" : 7314,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-01-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-24 00:00:00",
+    "countusers" : 968,
+    "countsessions" : 5941,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-01-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-25 00:00:00",
+    "countusers" : 884,
+    "countsessions" : 4541,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-01-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-26 00:00:00",
+    "countusers" : 181,
+    "countsessions" : 2264,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-01-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-27 00:00:00",
+    "countusers" : 163,
+    "countsessions" : 2348,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-01-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-28 00:00:00",
+    "countusers" : 961,
+    "countsessions" : 6141,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-01-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-29 00:00:00",
+    "countusers" : 916,
+    "countsessions" : 6993,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-01-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-30 00:00:00",
+    "countusers" : 960,
+    "countsessions" : 6869,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-01-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-31 00:00:00",
+    "countusers" : 952,
+    "countsessions" : 5919,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-01-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-01 00:00:00",
+    "countusers" : 929,
+    "countsessions" : 5401,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-01-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-02 00:00:00",
+    "countusers" : 193,
+    "countsessions" : 1473,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-03 00:00:00",
+    "countusers" : 172,
+    "countsessions" : 1217,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-04 00:00:00",
+    "countusers" : 913,
+    "countsessions" : 6912,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-05 00:00:00",
+    "countusers" : 978,
+    "countsessions" : 6820,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-06 00:00:00",
+    "countusers" : 934,
+    "countsessions" : 7501,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-07 00:00:00",
+    "countusers" : 953,
+    "countsessions" : 6477,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-08 00:00:00",
+    "countusers" : 853,
+    "countsessions" : 6162,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-09 00:00:00",
+    "countusers" : 199,
+    "countsessions" : 1953,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-10 00:00:00",
+    "countusers" : 180,
+    "countsessions" : 2081,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-11 00:00:00",
+    "countusers" : 978,
+    "countsessions" : 6547,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-12 00:00:00",
+    "countusers" : 986,
+    "countsessions" : 7196,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-13 00:00:00",
+    "countusers" : 1014,
+    "countsessions" : 6628,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-14 00:00:00",
+    "countusers" : 967,
+    "countsessions" : 7092,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-15 00:00:00",
+    "countusers" : 951,
+    "countsessions" : 6159,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-16 00:00:00",
+    "countusers" : 227,
+    "countsessions" : 1480,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-17 00:00:00",
+    "countusers" : 173,
+    "countsessions" : 2047,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-18 00:00:00",
+    "countusers" : 931,
+    "countsessions" : 7177,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-19 00:00:00",
+    "countusers" : 987,
+    "countsessions" : 6508,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-20 00:00:00",
+    "countusers" : 1002,
+    "countsessions" : 6444,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-21 00:00:00",
+    "countusers" : 992,
+    "countsessions" : 5801,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-22 00:00:00",
+    "countusers" : 928,
+    "countsessions" : 5639,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-23 00:00:00",
+    "countusers" : 200,
+    "countsessions" : 2012,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-24 00:00:00",
+    "countusers" : 207,
+    "countsessions" : 2254,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-25 00:00:00",
+    "countusers" : 985,
+    "countsessions" : 5416,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-26 00:00:00",
+    "countusers" : 1019,
+    "countsessions" : 6180,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-27 00:00:00",
+    "countusers" : 1032,
+    "countsessions" : 6288,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-28 00:00:00",
+    "countusers" : 989,
+    "countsessions" : 6188,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-29 00:00:00",
+    "countusers" : 984,
+    "countsessions" : 4637,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-01 00:00:00",
+    "countusers" : 218,
+    "countsessions" : 1162,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-02-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-02 00:00:00",
+    "countusers" : 187,
+    "countsessions" : 900,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-03 00:00:00",
+    "countusers" : 1011,
+    "countsessions" : 5584,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-04 00:00:00",
+    "countusers" : 1147,
+    "countsessions" : 6372,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-05 00:00:00",
+    "countusers" : 1080,
+    "countsessions" : 5604,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-06 00:00:00",
+    "countusers" : 1010,
+    "countsessions" : 5327,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-07 00:00:00",
+    "countusers" : 949,
+    "countsessions" : 5409,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-08 00:00:00",
+    "countusers" : 212,
+    "countsessions" : 2110,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-09 00:00:00",
+    "countusers" : 202,
+    "countsessions" : 2106,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-10 00:00:00",
+    "countusers" : 1033,
+    "countsessions" : 6378,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-11 00:00:00",
+    "countusers" : 979,
+    "countsessions" : 5809,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-12 00:00:00",
+    "countusers" : 1078,
+    "countsessions" : 5513,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-13 00:00:00",
+    "countusers" : 1041,
+    "countsessions" : 6427,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-14 00:00:00",
+    "countusers" : 962,
+    "countsessions" : 4812,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-15 00:00:00",
+    "countusers" : 227,
+    "countsessions" : 1622,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-16 00:00:00",
+    "countusers" : 172,
+    "countsessions" : 1294,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-17 00:00:00",
+    "countusers" : 982,
+    "countsessions" : 5372,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-18 00:00:00",
+    "countusers" : 907,
+    "countsessions" : 5358,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-19 00:00:00",
+    "countusers" : 953,
+    "countsessions" : 5394,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-20 00:00:00",
+    "countusers" : 964,
+    "countsessions" : 5283,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-21 00:00:00",
+    "countusers" : 861,
+    "countsessions" : 4839,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-22 00:00:00",
+    "countusers" : 272,
+    "countsessions" : 2050,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-23 00:00:00",
+    "countusers" : 247,
+    "countsessions" : 1982,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-24 00:00:00",
+    "countusers" : 970,
+    "countsessions" : 5836,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-25 00:00:00",
+    "countusers" : 966,
+    "countsessions" : 6304,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-26 00:00:00",
+    "countusers" : 878,
+    "countsessions" : 5021,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-27 00:00:00",
+    "countusers" : 937,
+    "countsessions" : 5551,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-28 00:00:00",
+    "countusers" : 901,
+    "countsessions" : 5806,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-29 00:00:00",
+    "countusers" : 280,
+    "countsessions" : 2844,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-30 00:00:00",
+    "countusers" : 295,
+    "countsessions" : 2199,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-31 00:00:00",
+    "countusers" : 1029,
+    "countsessions" : 6220,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-01 00:00:00",
+    "countusers" : 992,
+    "countsessions" : 5769,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-03-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-02 00:00:00",
+    "countusers" : 1033,
+    "countsessions" : 6474,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-03 00:00:00",
+    "countusers" : 961,
+    "countsessions" : 6311,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-04 00:00:00",
+    "countusers" : 934,
+    "countsessions" : 5748,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-05 00:00:00",
+    "countusers" : 307,
+    "countsessions" : 2691,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-06 00:00:00",
+    "countusers" : 286,
+    "countsessions" : 2305,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-07 00:00:00",
+    "countusers" : 1029,
+    "countsessions" : 6328,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-08 00:00:00",
+    "countusers" : 1047,
+    "countsessions" : 6002,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-09 00:00:00",
+    "countusers" : 1050,
+    "countsessions" : 6516,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-10 00:00:00",
+    "countusers" : 998,
+    "countsessions" : 6483,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-11 00:00:00",
+    "countusers" : 499,
+    "countsessions" : 3774,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-12 00:00:00",
+    "countusers" : 295,
+    "countsessions" : 2035,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-13 00:00:00",
+    "countusers" : 259,
+    "countsessions" : 1707,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-14 00:00:00",
+    "countusers" : 517,
+    "countsessions" : 3043,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-15 00:00:00",
+    "countusers" : 965,
+    "countsessions" : 5598,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-16 00:00:00",
+    "countusers" : 1010,
+    "countsessions" : 5585,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-17 00:00:00",
+    "countusers" : 1059,
+    "countsessions" : 5976,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-18 00:00:00",
+    "countusers" : 990,
+    "countsessions" : 5401,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-19 00:00:00",
+    "countusers" : 344,
+    "countsessions" : 1722,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-20 00:00:00",
+    "countusers" : 302,
+    "countsessions" : 1480,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-21 00:00:00",
+    "countusers" : 1005,
+    "countsessions" : 5496,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-22 00:00:00",
+    "countusers" : 1052,
+    "countsessions" : 6181,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-23 00:00:00",
+    "countusers" : 1037,
+    "countsessions" : 5699,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-24 00:00:00",
+    "countusers" : 985,
+    "countsessions" : 5516,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-25 00:00:00",
+    "countusers" : 963,
+    "countsessions" : 5527,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-26 00:00:00",
+    "countusers" : 287,
+    "countsessions" : 2727,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-27 00:00:00",
+    "countusers" : 285,
+    "countsessions" : 2603,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-28 00:00:00",
+    "countusers" : 1032,
+    "countsessions" : 6046,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-29 00:00:00",
+    "countusers" : 1040,
+    "countsessions" : 5488,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-30 00:00:00",
+    "countusers" : 1014,
+    "countsessions" : 6372,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-01 00:00:00",
+    "countusers" : 1048,
+    "countsessions" : 6766,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-04-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-02 00:00:00",
+    "countusers" : 822,
+    "countsessions" : 5866,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-03 00:00:00",
+    "countusers" : 291,
+    "countsessions" : 3476,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-04 00:00:00",
+    "countusers" : 290,
+    "countsessions" : 3533,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-05 00:00:00",
+    "countusers" : 1022,
+    "countsessions" : 6040,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-06 00:00:00",
+    "countusers" : 1009,
+    "countsessions" : 6105,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-07 00:00:00",
+    "countusers" : 1004,
+    "countsessions" : 6860,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-08 00:00:00",
+    "countusers" : 1011,
+    "countsessions" : 7284,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-09 00:00:00",
+    "countusers" : 521,
+    "countsessions" : 3205,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-10 00:00:00",
+    "countusers" : 247,
+    "countsessions" : 1766,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-11 00:00:00",
+    "countusers" : 268,
+    "countsessions" : 2494,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-12 00:00:00",
+    "countusers" : 1000,
+    "countsessions" : 5822,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-13 00:00:00",
+    "countusers" : 1033,
+    "countsessions" : 6015,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-14 00:00:00",
+    "countusers" : 1045,
+    "countsessions" : 5862,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-15 00:00:00",
+    "countusers" : 1076,
+    "countsessions" : 5700,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-16 00:00:00",
+    "countusers" : 980,
+    "countsessions" : 5372,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-17 00:00:00",
+    "countusers" : 331,
+    "countsessions" : 2752,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-18 00:00:00",
+    "countusers" : 292,
+    "countsessions" : 2414,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-19 00:00:00",
+    "countusers" : 1017,
+    "countsessions" : 6525,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-20 00:00:00",
+    "countusers" : 1046,
+    "countsessions" : 7063,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-21 00:00:00",
+    "countusers" : 1005,
+    "countsessions" : 5704,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-22 00:00:00",
+    "countusers" : 987,
+    "countsessions" : 5407,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-23 00:00:00",
+    "countusers" : 969,
+    "countsessions" : 5389,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-24 00:00:00",
+    "countusers" : 306,
+    "countsessions" : 2056,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-25 00:00:00",
+    "countusers" : 262,
+    "countsessions" : 2435,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-26 00:00:00",
+    "countusers" : 420,
+    "countsessions" : 2450,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-27 00:00:00",
+    "countusers" : 1011,
+    "countsessions" : 5410,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-28 00:00:00",
+    "countusers" : 1001,
+    "countsessions" : 5456,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-29 00:00:00",
+    "countusers" : 952,
+    "countsessions" : 6125,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-30 00:00:00",
+    "countusers" : 910,
+    "countsessions" : 6263,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-31 00:00:00",
+    "countusers" : 284,
+    "countsessions" : 3420,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-01 00:00:00",
+    "countusers" : 257,
+    "countsessions" : 3093,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-05-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-02 00:00:00",
+    "countusers" : 949,
+    "countsessions" : 5885,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-06-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-03 00:00:00",
+    "countusers" : 956,
+    "countsessions" : 5242,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-06-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-04 00:00:00",
+    "countusers" : 984,
+    "countsessions" : 5394,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-06-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-05 00:00:00",
+    "countusers" : 1017,
+    "countsessions" : 5744,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-06-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-06 00:00:00",
+    "countusers" : 1005,
+    "countsessions" : 5370,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-06-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-07 00:00:00",
+    "countusers" : 320,
+    "countsessions" : 1838,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-06-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-08 00:00:00",
+    "countusers" : 311,
+    "countsessions" : 2248,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-06-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-09 00:00:00",
+    "countusers" : 1041,
+    "countsessions" : 5650,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-06-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-10 00:00:00",
+    "countusers" : 1031,
+    "countsessions" : 5506,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-06-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-11 00:00:00",
+    "countusers" : 1053,
+    "countsessions" : 5739,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-06-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-12 00:00:00",
+    "countusers" : 1029,
+    "countsessions" : 5865,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-06-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-13 00:00:00",
+    "countusers" : 1004,
+    "countsessions" : 5073,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-06-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-14 00:00:00",
+    "countusers" : 278,
+    "countsessions" : 1950,
+    "billing_country" : "United Kingdom",
+    "periodstart" : "2020-06-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-23 00:00:00",
+    "countusers" : 4682,
+    "countsessions" : 23274,
+    "billing_country" : "US",
+    "periodstart" : "2020-01-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-24 00:00:00",
+    "countusers" : 4672,
+    "countsessions" : 24082,
+    "billing_country" : "US",
+    "periodstart" : "2020-01-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-25 00:00:00",
+    "countusers" : 4301,
+    "countsessions" : 24279,
+    "billing_country" : "US",
+    "periodstart" : "2020-01-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-26 00:00:00",
+    "countusers" : 1310,
+    "countsessions" : 7644,
+    "billing_country" : "US",
+    "periodstart" : "2020-01-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-27 00:00:00",
+    "countusers" : 1053,
+    "countsessions" : 6199,
+    "billing_country" : "US",
+    "periodstart" : "2020-01-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-28 00:00:00",
+    "countusers" : 4627,
+    "countsessions" : 22747,
+    "billing_country" : "US",
+    "periodstart" : "2020-01-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-29 00:00:00",
+    "countusers" : 4925,
+    "countsessions" : 25102,
+    "billing_country" : "US",
+    "periodstart" : "2020-01-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-30 00:00:00",
+    "countusers" : 4806,
+    "countsessions" : 25022,
+    "billing_country" : "US",
+    "periodstart" : "2020-01-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-01-31 00:00:00",
+    "countusers" : 4867,
+    "countsessions" : 26770,
+    "billing_country" : "US",
+    "periodstart" : "2020-01-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-01 00:00:00",
+    "countusers" : 4552,
+    "countsessions" : 24111,
+    "billing_country" : "US",
+    "periodstart" : "2020-01-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-02 00:00:00",
+    "countusers" : 1358,
+    "countsessions" : 9481,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-03 00:00:00",
+    "countusers" : 1058,
+    "countsessions" : 7555,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-04 00:00:00",
+    "countusers" : 4522,
+    "countsessions" : 23703,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-05 00:00:00",
+    "countusers" : 4730,
+    "countsessions" : 23633,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-06 00:00:00",
+    "countusers" : 4774,
+    "countsessions" : 23207,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-07 00:00:00",
+    "countusers" : 4752,
+    "countsessions" : 23019,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-08 00:00:00",
+    "countusers" : 4364,
+    "countsessions" : 19961,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-09 00:00:00",
+    "countusers" : 1225,
+    "countsessions" : 7077,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-10 00:00:00",
+    "countusers" : 1042,
+    "countsessions" : 6852,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-11 00:00:00",
+    "countusers" : 4885,
+    "countsessions" : 24471,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-12 00:00:00",
+    "countusers" : 4967,
+    "countsessions" : 26327,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-13 00:00:00",
+    "countusers" : 4981,
+    "countsessions" : 26845,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-14 00:00:00",
+    "countusers" : 4997,
+    "countsessions" : 27363,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-15 00:00:00",
+    "countusers" : 4537,
+    "countsessions" : 22654,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-16 00:00:00",
+    "countusers" : 1277,
+    "countsessions" : 7818,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-17 00:00:00",
+    "countusers" : 1080,
+    "countsessions" : 7465,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-18 00:00:00",
+    "countusers" : 3677,
+    "countsessions" : 18542,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-19 00:00:00",
+    "countusers" : 4964,
+    "countsessions" : 24645,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-20 00:00:00",
+    "countusers" : 5280,
+    "countsessions" : 25782,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-21 00:00:00",
+    "countusers" : 5094,
+    "countsessions" : 25924,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-22 00:00:00",
+    "countusers" : 4512,
+    "countsessions" : 23040,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-23 00:00:00",
+    "countusers" : 1306,
+    "countsessions" : 7822,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-24 00:00:00",
+    "countusers" : 1177,
+    "countsessions" : 8017,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-25 00:00:00",
+    "countusers" : 5005,
+    "countsessions" : 26085,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-26 00:00:00",
+    "countusers" : 5274,
+    "countsessions" : 27483,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-27 00:00:00",
+    "countusers" : 5141,
+    "countsessions" : 26172,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-28 00:00:00",
+    "countusers" : 5174,
+    "countsessions" : 29763,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-02-29 00:00:00",
+    "countusers" : 4742,
+    "countsessions" : 27973,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-01 00:00:00",
+    "countusers" : 1423,
+    "countsessions" : 11502,
+    "billing_country" : "US",
+    "periodstart" : "2020-02-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-02 00:00:00",
+    "countusers" : 1179,
+    "countsessions" : 10926,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-03 00:00:00",
+    "countusers" : 5126,
+    "countsessions" : 28076,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-04 00:00:00",
+    "countusers" : 5221,
+    "countsessions" : 28943,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-05 00:00:00",
+    "countusers" : 5278,
+    "countsessions" : 27696,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-06 00:00:00",
+    "countusers" : 5257,
+    "countsessions" : 27287,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-07 00:00:00",
+    "countusers" : 4695,
+    "countsessions" : 24422,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-08 00:00:00",
+    "countusers" : 1339,
+    "countsessions" : 8729,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-09 00:00:00",
+    "countusers" : 1150,
+    "countsessions" : 7678,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-10 00:00:00",
+    "countusers" : 4776,
+    "countsessions" : 23684,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-11 00:00:00",
+    "countusers" : 4881,
+    "countsessions" : 24739,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-12 00:00:00",
+    "countusers" : 5167,
+    "countsessions" : 25845,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-13 00:00:00",
+    "countusers" : 5022,
+    "countsessions" : 25904,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-14 00:00:00",
+    "countusers" : 4541,
+    "countsessions" : 22691,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-15 00:00:00",
+    "countusers" : 1394,
+    "countsessions" : 8619,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-16 00:00:00",
+    "countusers" : 1279,
+    "countsessions" : 8329,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-17 00:00:00",
+    "countusers" : 4737,
+    "countsessions" : 24868,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-18 00:00:00",
+    "countusers" : 4914,
+    "countsessions" : 25961,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-19 00:00:00",
+    "countusers" : 5039,
+    "countsessions" : 27510,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-20 00:00:00",
+    "countusers" : 4919,
+    "countsessions" : 26895,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-21 00:00:00",
+    "countusers" : 4482,
+    "countsessions" : 23768,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-22 00:00:00",
+    "countusers" : 1491,
+    "countsessions" : 11239,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-23 00:00:00",
+    "countusers" : 1278,
+    "countsessions" : 10213,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-24 00:00:00",
+    "countusers" : 4737,
+    "countsessions" : 25959,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-25 00:00:00",
+    "countusers" : 4857,
+    "countsessions" : 26306,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-26 00:00:00",
+    "countusers" : 4664,
+    "countsessions" : 24139,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-27 00:00:00",
+    "countusers" : 4903,
+    "countsessions" : 24374,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-28 00:00:00",
+    "countusers" : 4626,
+    "countsessions" : 22896,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-29 00:00:00",
+    "countusers" : 1570,
+    "countsessions" : 9008,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-30 00:00:00",
+    "countusers" : 1433,
+    "countsessions" : 9081,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-03-31 00:00:00",
+    "countusers" : 4945,
+    "countsessions" : 24199,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-01 00:00:00",
+    "countusers" : 4974,
+    "countsessions" : 24720,
+    "billing_country" : "US",
+    "periodstart" : "2020-03-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-02 00:00:00",
+    "countusers" : 5282,
+    "countsessions" : 26669,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-03 00:00:00",
+    "countusers" : 5019,
+    "countsessions" : 24940,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-04 00:00:00",
+    "countusers" : 4909,
+    "countsessions" : 22749,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-05 00:00:00",
+    "countusers" : 1685,
+    "countsessions" : 8872,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-06 00:00:00",
+    "countusers" : 1507,
+    "countsessions" : 9130,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-07 00:00:00",
+    "countusers" : 4829,
+    "countsessions" : 23385,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-08 00:00:00",
+    "countusers" : 5112,
+    "countsessions" : 25056,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-09 00:00:00",
+    "countusers" : 5019,
+    "countsessions" : 24470,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-10 00:00:00",
+    "countusers" : 5003,
+    "countsessions" : 24964,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-11 00:00:00",
+    "countusers" : 3920,
+    "countsessions" : 20082,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-12 00:00:00",
+    "countusers" : 1668,
+    "countsessions" : 9556,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-13 00:00:00",
+    "countusers" : 1362,
+    "countsessions" : 9112,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-14 00:00:00",
+    "countusers" : 4825,
+    "countsessions" : 23727,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-15 00:00:00",
+    "countusers" : 5080,
+    "countsessions" : 25777,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-16 00:00:00",
+    "countusers" : 5319,
+    "countsessions" : 28207,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-17 00:00:00",
+    "countusers" : 5254,
+    "countsessions" : 27200,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-18 00:00:00",
+    "countusers" : 5059,
+    "countsessions" : 24446,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-19 00:00:00",
+    "countusers" : 1983,
+    "countsessions" : 10639,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-20 00:00:00",
+    "countusers" : 1628,
+    "countsessions" : 10052,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-21 00:00:00",
+    "countusers" : 5210,
+    "countsessions" : 26317,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-22 00:00:00",
+    "countusers" : 5386,
+    "countsessions" : 27863,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-23 00:00:00",
+    "countusers" : 5318,
+    "countsessions" : 27946,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-24 00:00:00",
+    "countusers" : 5342,
+    "countsessions" : 27413,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-25 00:00:00",
+    "countusers" : 5114,
+    "countsessions" : 25300,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-26 00:00:00",
+    "countusers" : 1807,
+    "countsessions" : 10213,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-27 00:00:00",
+    "countusers" : 1610,
+    "countsessions" : 10296,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-28 00:00:00",
+    "countusers" : 5178,
+    "countsessions" : 25457,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-29 00:00:00",
+    "countusers" : 5357,
+    "countsessions" : 27109,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-04-30 00:00:00",
+    "countusers" : 5429,
+    "countsessions" : 28078,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-01 00:00:00",
+    "countusers" : 5633,
+    "countsessions" : 28837,
+    "billing_country" : "US",
+    "periodstart" : "2020-04-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-02 00:00:00",
+    "countusers" : 4484,
+    "countsessions" : 22387,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-03 00:00:00",
+    "countusers" : 1798,
+    "countsessions" : 10245,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-04 00:00:00",
+    "countusers" : 1568,
+    "countsessions" : 9351,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-05 00:00:00",
+    "countusers" : 5167,
+    "countsessions" : 24188,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-06 00:00:00",
+    "countusers" : 5479,
+    "countsessions" : 27453,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-07 00:00:00",
+    "countusers" : 5560,
+    "countsessions" : 27967,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-08 00:00:00",
+    "countusers" : 5403,
+    "countsessions" : 27812,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-09 00:00:00",
+    "countusers" : 5014,
+    "countsessions" : 24416,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-10 00:00:00",
+    "countusers" : 1878,
+    "countsessions" : 9839,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-11 00:00:00",
+    "countusers" : 1526,
+    "countsessions" : 8426,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-12 00:00:00",
+    "countusers" : 5296,
+    "countsessions" : 24740,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-13 00:00:00",
+    "countusers" : 5517,
+    "countsessions" : 27120,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-14 00:00:00",
+    "countusers" : 5810,
+    "countsessions" : 28784,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-13 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-15 00:00:00",
+    "countusers" : 5541,
+    "countsessions" : 26872,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-14 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-16 00:00:00",
+    "countusers" : 5469,
+    "countsessions" : 26227,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-15 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-17 00:00:00",
+    "countusers" : 2138,
+    "countsessions" : 12343,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-16 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-18 00:00:00",
+    "countusers" : 1642,
+    "countsessions" : 11454,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-17 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-19 00:00:00",
+    "countusers" : 5472,
+    "countsessions" : 27119,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-18 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-20 00:00:00",
+    "countusers" : 5657,
+    "countsessions" : 28731,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-19 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-21 00:00:00",
+    "countusers" : 5659,
+    "countsessions" : 29131,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-20 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-22 00:00:00",
+    "countusers" : 5647,
+    "countsessions" : 27874,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-21 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-23 00:00:00",
+    "countusers" : 4846,
+    "countsessions" : 27012,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-22 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-24 00:00:00",
+    "countusers" : 1746,
+    "countsessions" : 10814,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-23 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-25 00:00:00",
+    "countusers" : 1441,
+    "countsessions" : 9814,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-24 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-26 00:00:00",
+    "countusers" : 1865,
+    "countsessions" : 11925,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-25 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-27 00:00:00",
+    "countusers" : 5275,
+    "countsessions" : 27453,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-26 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-28 00:00:00",
+    "countusers" : 5534,
+    "countsessions" : 28519,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-27 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-29 00:00:00",
+    "countusers" : 5707,
+    "countsessions" : 28567,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-28 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-30 00:00:00",
+    "countusers" : 5337,
+    "countsessions" : 26162,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-29 00:00:00"
+  },
+  {
+    "periodend" : "2020-05-31 00:00:00",
+    "countusers" : 1955,
+    "countsessions" : 10076,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-30 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-01 00:00:00",
+    "countusers" : 1677,
+    "countsessions" : 11013,
+    "billing_country" : "US",
+    "periodstart" : "2020-05-31 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-02 00:00:00",
+    "countusers" : 5524,
+    "countsessions" : 26635,
+    "billing_country" : "US",
+    "periodstart" : "2020-06-01 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-03 00:00:00",
+    "countusers" : 5672,
+    "countsessions" : 26880,
+    "billing_country" : "US",
+    "periodstart" : "2020-06-02 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-04 00:00:00",
+    "countusers" : 5747,
+    "countsessions" : 29604,
+    "billing_country" : "US",
+    "periodstart" : "2020-06-03 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-05 00:00:00",
+    "countusers" : 5601,
+    "countsessions" : 30257,
+    "billing_country" : "US",
+    "periodstart" : "2020-06-04 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-06 00:00:00",
+    "countusers" : 5275,
+    "countsessions" : 25845,
+    "billing_country" : "US",
+    "periodstart" : "2020-06-05 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-07 00:00:00",
+    "countusers" : 1882,
+    "countsessions" : 9606,
+    "billing_country" : "US",
+    "periodstart" : "2020-06-06 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-08 00:00:00",
+    "countusers" : 1508,
+    "countsessions" : 9348,
+    "billing_country" : "US",
+    "periodstart" : "2020-06-07 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-09 00:00:00",
+    "countusers" : 5469,
+    "countsessions" : 27014,
+    "billing_country" : "US",
+    "periodstart" : "2020-06-08 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-10 00:00:00",
+    "countusers" : 5826,
+    "countsessions" : 28145,
+    "billing_country" : "US",
+    "periodstart" : "2020-06-09 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-11 00:00:00",
+    "countusers" : 5711,
+    "countsessions" : 30007,
+    "billing_country" : "US",
+    "periodstart" : "2020-06-10 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-12 00:00:00",
+    "countusers" : 5714,
+    "countsessions" : 30687,
+    "billing_country" : "US",
+    "periodstart" : "2020-06-11 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-13 00:00:00",
+    "countusers" : 5272,
+    "countsessions" : 27296,
+    "billing_country" : "US",
+    "periodstart" : "2020-06-12 00:00:00"
+  },
+  {
+    "periodend" : "2020-06-14 00:00:00",
+    "countusers" : 1908,
+    "countsessions" : 12200,
+    "billing_country" : "US",
+    "periodstart" : "2020-06-13 00:00:00"
+  }
+]

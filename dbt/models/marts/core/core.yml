@@ -1,0 +1,22 @@
+version: 2
+
+models:
+  - name: fact_cases
+    description: Case facts
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns:
+            - country_k
+            - province_k
+            - dt
+    columns:
+      - name: country_k
+        tests:
+          - relationships:
+              to: ref('dim_country')
+              field: country_k
+      - name: province_k
+        tests:
+          - relationships:
+              to: ref('dim_province')
+              field: province_k

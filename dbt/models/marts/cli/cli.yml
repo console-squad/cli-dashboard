@@ -1,0 +1,44 @@
+version: 2
+
+models:
+  - name: fact_country_cases
+    description: Daily case statistics by country
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns:
+            - country_k
+            - dt
+    columns:
+      - name: country_k
+        tests:
+          - relationships:
+              to: ref('dim_country')
+              field: country_k
+      - name: new_cases
+      - name: new_deaths
+      - name: new_recoveries
+      - name: new_cases_per_million
+        description: New cases per one million people in the province
+      - name: new_deaths_per_million
+        description: New deaths per one million people in the province
+      - name: new_recoveries_per_million
+        description: New recoveries per one million people in the province
+      - name: cume_cases
+      - name: cume_deaths
+      - name: cume_recoveries
+      - name: cume_cases_per_million
+        description: Cumulative cases per one million people in the province
+      - name: cume_deaths_per_million
+        description: Cumulative deaths per one million people in the province
+      - name: cume_recoveries_per_million
+        description: Cumulative recoveries per one million people in the province
+      - name: mortality_rate
+        description: >-
+          The share of confirmed cases which have run their course that resulted in death. 
+          Calculated as mortality_rate = cume_deaths / (cume_deaths + cume_recoveries).
+      - name: pct_new_cases
+        description: The percentage growth in new cases in the past day
+      - name: pct_new_deaths
+        description: The percentage growth in new deaths in the past day
+      - name: pct_new_recoveries
+        description: The percentage growth in new recoveries in the past day

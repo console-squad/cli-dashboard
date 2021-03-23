@@ -1,0 +1,31 @@
+version: 2
+
+seeds:
+  - name: time_series_covid19_confirmed_global
+    description: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+    tests: &csse_PRIMARY_KEY
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns:
+            - province
+            - country
+    columns:
+      - name: province
+      - name: country
+        tests:
+          - not_null
+
+  - name: time_series_covid19_deaths_global
+    description: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+    tests: *csse_PRIMARY_KEY
+
+  - name: time_series_covid19_recovered_global
+    description: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
+    tests: *csse_PRIMARY_KEY
+
+  - name: uid_iso_fips_lookup
+    description: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv
+    columns:
+      - name: uid
+        tests:
+          - not_null
+          - unique
