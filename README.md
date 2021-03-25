@@ -1,24 +1,15 @@
-## cli-dashboard
+# CLI Dashboard
 
-Show custom Dynatrace and other data in a cool terminal view.
-Data sources:
+Show custom Dynatrace and covid data right in your terminal. So you can always feel like you're in the matrix.
 
-**Contributors:**
+### Contributors
 
 - Crowther, Arnaud
 - Colella, Jose
 - Baert, Todd
 
-**Running the demo**
+Live Dynatrace monitoring metrics pulled from the customer API:
+![screenshot-1](./git/screenshot-1.png)
 
-    npm install
-
-    // dev mode
-    npm run dev:dt
-    npm run dev:covid
-
-    // prod mode
-    npm run start:dt
-    npm run start:covid
-
-Works on Linux, OS X and Windows. For Windows follow the [pre requisites](http://webservices20.blogspot.co.il/2015/04/running-terminal-dashboards-on-windows.html).
+Covid metrics:
+![screenshot-2](./git/screenshot-2.png)
