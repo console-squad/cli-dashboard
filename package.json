@@ -35,7 +35,7 @@
     "marked-terminal": "^4.0.0",
     "memory-streams": "^0.1.0",
     "memorystream": "^0.3.1",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "nodemon": "^2.0.4",
     "picture-tuber": "^1.0.1",
     "sparkline": "^0.1.1",
